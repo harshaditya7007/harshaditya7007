@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harsh Aditya</h1>
-<h3 align="center">I'm a software engineer passionate about crafting innovative solutions through code. 🚀 Currently pursuing a B.Tech in Electronics and Communication Engineering at Birla Institute of Technology Mesra, I have a keen interest in web development, data labeling, and various programming languages including Python, Java, and C++.</h3>
+<h3 align="center">I'm a software engineer passionate about crafting innovative solutions through code. 🚀 Currently pursuing a B.Tech in Electronics and Communication Engineering at Birla Institute of Technology Mesra, I have a keen interest in web development, data labeling, and various programming languages, including Python, Java, and C++.</h3>
 
 - 🔭 I’m currently working on [an Enrollment form using JPDB V2](https://github.com/harshaditya7007/StudentDB/)
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 📫 How to reach me **harshaditya7007@gmail.com**
+- 📫 Contact me: **harshaditya7007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oUWDGr28B6PY22g0droM4-C_it3Zuw-W/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t1JHO-UPfviKyg8Kckd2i8SGG26Ds82q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-aditya-19a9a021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-aditya-19a9a021a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh--aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-aditya-19a9a021a" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh__aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh__aditya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshaditya7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshaditya7007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshaditya7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshaditya7007" height="30" width="40" /></a>
