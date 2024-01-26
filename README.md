@@ -7,7 +7,7 @@
 
 - 📫 Contact me: **harshaditya7007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t1JHO-UPfviKyg8Kckd2i8SGG26Ds82q/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GTnvMZ2mg2dUdRINOe8ZELhpx6lYCW3F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
